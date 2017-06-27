@@ -1,0 +1,55 @@
+Exercises
+
+What is the difference between JavaScript and ECMAScript? ECMAScript is a standard and JS is an implementation of that standard.
+
+//Who is Brendan Eich? Creator of JS
+
+//How do you hide and show the Chrome console? F12 or Option + command + j 
+
+//Create a simple page with a script tag. Inside of the script tag declare a couple of variables and then log their values to the console.
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>JavaScript Test Site</title>
+
+<script>
+
+
+
+    var arrary = [1,2,3,4,5]
+
+    var num = 1;
+
+
+
+    console.log(array);
+
+    console.log(num);
+
+
+
+</script>
+
+</head>
+
+<body>
+
+
+
+<p>Nothing going on yet.</p>
+
+
+
+</body>
+
+</html>
+
+Research prompt and confirm - what do they do? 
+Prompt will display a prompt box to the user that asks a question. 
+
+Confirm will also display a box looks for an affirmative or negative response
+
